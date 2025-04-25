@@ -2,7 +2,6 @@ site_name: My Docs
 
 plugins:
 - mkdocstrings:
-    default_handler: matlab
     handlers:
       matlab:
         paths: [src]

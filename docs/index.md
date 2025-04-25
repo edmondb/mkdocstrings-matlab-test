@@ -1,1 +1,2 @@
 ::: ./src
+    handler: matlab
